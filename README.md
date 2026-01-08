@@ -8,3 +8,5 @@ npx create-react-app frontend
 
 cd frontend
 
+npm install react-speech-recognition
+
